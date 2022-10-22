@@ -84,11 +84,7 @@ public class Main {
         System.out.println("Tempo total busca binária em nano secundos: " + totalBuscaBinaria + " (" + percentBuscaBinaria + "%)");
         
         System.out.println("Tempo total busca sequencial em nano secundos: " + totalBuscaSequencial + " (" + percentBuscaSequencial + "%)");
-        
-        /*
-         * Com 500 elementos o percentual da busca binária é entre 60-70% equanto o da busca sequencial é entre 30-40% do tempo total das buscas.
-         */
-        
+                
         
 	}
 }
